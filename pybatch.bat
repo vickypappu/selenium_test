@@ -1,1 +1,2 @@
-python script.py
+@echo off
+"python" "script.py"
